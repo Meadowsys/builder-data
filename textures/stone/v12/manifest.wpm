@@ -1,0 +1,10 @@
+(
+	versions: [
+		PackVersion(12)
+	],
+	type: Random (
+		block_id: "minecraft:stone",
+		mirror: true,
+		y: [0, 180]
+	)
+)
