@@ -2,9 +2,9 @@ V1 (
 	versions: [
 		PackVersion(12)
 	],
-	type: Random (
+	type: RandomCubeAll (
 		block_id: "minecraft:stone",
 		mirror: true,
-		y: [0, 180]
+		y: [None, 180]
 	)
 )
