@@ -1,4 +1,5 @@
 V1 (
 	name: "Dirt",
-	description: "Textures for dirt"
+	description: "Textures for dirt",
+	default: "random"
 )
