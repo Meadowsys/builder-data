@@ -1,6 +1,6 @@
 Source (
 	meta_version: "1",
 	name: "Love & Tolerance",
-	packid: "lt",
+	pack_id: "lt",
 	version: "git-tag"
 )
