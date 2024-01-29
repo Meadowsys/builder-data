@@ -1,0 +1,7 @@
+(
+	meta_version: "1",
+	type: "random-cube-all",
+	block_id: "minecraft:dirt",
+	y: [None, 90, 180, 270],
+	mirror: true
+)
