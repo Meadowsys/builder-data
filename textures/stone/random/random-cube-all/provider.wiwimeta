@@ -1,6 +1,6 @@
 (
 	meta_version: "1",
-	type: "random-cube-all"
+	type: "random-cube-all",
 	block_id: "minecraft:stone",
 	y: [None, 180],
 	mirror: true
