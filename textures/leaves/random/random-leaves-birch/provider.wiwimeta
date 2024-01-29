@@ -1,0 +1,6 @@
+(
+	meta_version: "1",
+	type: "random-leaves",
+	block_id: "minecraft:birch_leaves",
+	y: [None, 90, 180, 270]
+)

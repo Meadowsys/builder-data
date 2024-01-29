@@ -1,0 +1,5 @@
+(
+	meta_version: "1",
+	name: "Leaves",
+	description: "Provides leaves textures for all leaf blocks"
+)
