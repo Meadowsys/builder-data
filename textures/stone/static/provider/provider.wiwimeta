@@ -1,0 +1,5 @@
+(
+	meta_version: "1",
+	type: "random-cube-all",
+	block_id: "minecraft:stone"
+)
