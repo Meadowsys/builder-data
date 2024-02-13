@@ -1,7 +1,7 @@
 (
 	meta_version: "1",
 	type: "random-cube-all",
-	block_id: "minecraft:bedrock"
+	block_id: "minecraft:bedrock",
 	y: [None, 180],
 	mirror: true
 )
